@@ -7,9 +7,9 @@
 
 <h1>Motivação</h1>
 <p>Aprender conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram: </p>
-- [x] Hooks;
-- [x] Componentes;
-- [x] Propriedades;
+-[x] Hooks;
+-[x] Componentes;
+-[x] Propriedades;
 - [x] Estado;
 - [x] Rotas (com react-router-dom);
 - [x] Requisições a APIs externas (com express);
