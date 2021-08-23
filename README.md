@@ -1,4 +1,4 @@
-#gamagit
+# gamagit
 
 <p>Projeto desenvolvido durante as aulas de React do Gama Experience, da Gama Academy.</p> 
 <h1>A aplicação</h1>
