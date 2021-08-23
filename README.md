@@ -7,15 +7,15 @@
 
 <h1>Motivação</h1>
 <p>Aprender conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram: </p>
-<p>🔹Hooks;</p>
-<p>🔹Componentes;</p>
-<p>🔹Propriedades;</p>
-<p>🔹Estado;</p>
-<p>🔹Rotas (com react-router-dom);</p>
-<p>🔹Requisições a APIs externas (com express);</p>
-<p>🔹Eventos;</p>
-<p>🔹Estilização (com styled-components);</p>
-<p>🔹Lidando com erros e experiência do usuário;</p>
+<p>🔹 Hooks;</p>
+<p>🔹 Componentes;</p>
+<p>🔹 Propriedades;</p>
+<p>🔹 Estado;</p>
+<p>🔹 Rotas (com react-router-dom);</p>
+<p>🔹 Requisições a APIs externas (com express);</p>
+<p>🔹 Eventos;</p>
+<p>🔹 Estilização (com styled-components);</p>
+<p>🔹 Lidando com erros e experiência do usuário;</p>
 
 <h1>Usando a aplicação</h1>
 <p>Para usá-la, basta executar os seguintes comandos na raíz do projeto:</p>
