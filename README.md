@@ -1,4 +1,4 @@
-# gamagit
+# Gamagit
 
 <p>Projeto desenvolvido durante as aulas de React do Gama Experience, da Gama Academy.</p> 
 <h1>A aplicação</h1>
@@ -7,15 +7,15 @@
 
 <h1>Motivação</h1>
 <p>Aprender conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram: </p>
-Hooks;
-Componentes;
-Propriedades;
-Estado;
-Rotas (com react-router-dom);
-Requisições a APIs externas (com express);
-Eventos;
-Estilização (com styled-components);
-Lidando com erros e experiência do usuário;
+- [x] Hooks;
+- [x] Componentes;
+- [x] Propriedades;
+- [x] Estado;
+- [x] Rotas (com react-router-dom);
+- [x] Requisições a APIs externas (com express);
+- [x] Eventos;
+- [x] Estilização (com styled-components);
+- [x] Lidando com erros e experiência do usuário;
 
 <h1>Usando a aplicação</h1>
 <p>Para usá-la, basta executar os seguintes comandos na raíz do projeto:</p>
