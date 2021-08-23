@@ -7,19 +7,25 @@
 
 <h1>Motivação</h1>
 <p>Aprender conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram: </p>
-- [X] Hooks;
-- [X] Componentes;
-- [X] Propriedades;
-- [x] Estado;
-- [x] Rotas (com react-router-dom);
-- [x] Requisições a APIs externas (com express);
-- [x] Eventos;
-- [x] Estilização (com styled-components);
-- [x] Lidando com erros e experiência do usuário;
+  <p>Hooks;</p>
+🔹<p>Componentes;</p>
+🔹 Propriedades;
+🔹 Estado;
+🔹 Rotas (com react-router-dom);
+🔹 Requisições a APIs externas (com express);
+🔹  Eventos;
+🔹 Estilização (com styled-components);
+🔹 Lidando com erros e experiência do usuário;
 
 <h1>Usando a aplicação</h1>
 <p>Para usá-la, basta executar os seguintes comandos na raíz do projeto:</p>
 npm install
 npm start
+
+<h1>License</h1>
+<p>This project is under the MIT license. See the LICENSE for more information.</p>
+
+Made with ♥ by [Jezebel Guedes](https://www.linkedin.com/in/jezebel-guedes/) 👋 Get in touch!
+
 
 
