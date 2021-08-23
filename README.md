@@ -8,6 +8,7 @@
 ![G1](https://user-images.githubusercontent.com/75287031/130532645-6c714333-8765-4d10-863c-26aa35e876c4.png)
 ![g2](https://user-images.githubusercontent.com/75287031/130533016-f4af0c89-b738-4bcd-88e9-4674054e42c4.png)
 ![g5](https://user-images.githubusercontent.com/75287031/130532883-087993a2-ef73-4317-b4f5-ee5879b48f7e.png)
+![g8](https://user-images.githubusercontent.com/75287031/130533230-59c0f410-36a1-48ec-8bc3-b4196193a038.png)
 
 
 <h1>Motivação</h1>
