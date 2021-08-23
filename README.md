@@ -6,6 +6,7 @@
 <p>A aplicação tem um funcionamento bastante simples: na página inicial, o usuário insere um nome de usuário do Github. A aplicação, por sua vez, busca por esse usuário, recupera seus repositórios e os exibe numa outra página.</p>
 
 ![G1](https://user-images.githubusercontent.com/75287031/130532645-6c714333-8765-4d10-863c-26aa35e876c4.png)
+![g2](https://user-images.githubusercontent.com/75287031/130533016-f4af0c89-b738-4bcd-88e9-4674054e42c4.png)
 ![g5](https://user-images.githubusercontent.com/75287031/130532883-087993a2-ef73-4317-b4f5-ee5879b48f7e.png)
 
 
